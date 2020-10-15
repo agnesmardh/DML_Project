@@ -1,0 +1,10 @@
+# Ignore all folders with data
+*test
+*train*
+*val
+
+# Ignore all notebooks
+*.ipynb
+
+# Include all notebooks that start with "Project_"
+!Project_*.ipynb
